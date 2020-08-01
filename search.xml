@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
-    <url>/2020/08/01/title/</url>
-    <content><![CDATA[<hr>
-<p>title:这是我的第一篇文章<br>date: 2020-08-01 10:12:15<br>tags:</p>
-<hr>
-<p>这是正文<br>例子</p>
+    <title>我的文章</title>
+    <url>/2020/08/01/%E6%88%91%E7%9A%84%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h1 id="一个标题"><a href="#一个标题" class="headerlink" title="一个标题"></a>一个标题</h1><p>这是正文</p>
 ]]></content>
+      <categories>
+        <category>-示例</category>
+      </categories>
+      <tags>
+        <tag>-标签</tag>
+      </tags>
   </entry>
 </search>
